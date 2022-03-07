@@ -1,4 +1,4 @@
-# Jemoji
+# Jemoji Love
 
 GitHub-flavored Emoji plugin for Jekyll
 
